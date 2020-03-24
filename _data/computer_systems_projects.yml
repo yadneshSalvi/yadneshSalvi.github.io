@@ -1,0 +1,19 @@
+- name: MITM attack on apt/apt-get
+  image: /assets/images/mitm.jpg
+  description: Description
+  github_link: https://gitlab.com/codingZorba/mitm-attack-apt
+
+- name: Study Regularity of DRAM accesses in multithreaded workloads
+  image: /assets/images/arch.jpg
+  description: Description
+  github_link: https://gitlab.com/codingZorba/hpca-project
+
+- name: Dharamshala Booking website
+  image: /assets/images/gojainyatra.png
+  description: Description
+  github_link: https://github.com/yadneshSalvi/gojainyatra1
+
+- name: Hosting on Github with Jekyll
+  image: /assets/images/jekyll_github.jpg
+  description: Description
+  github_link: https://github.com/yadneshSalvi/yadneshSalvi.github.io

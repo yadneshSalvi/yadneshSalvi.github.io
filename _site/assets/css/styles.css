@@ -1,0 +1,33 @@
+html, body { padding: 0; margin: 0; height: 100%; width: 100%; }
+
+::-webkit-scrollbar { display: none; }
+
+#one { height: 50%; background: black; color: white; vertical-align: middle; display: flex; }
+
+#two { height: 50%; background: #92DCE5; vertical-align: middle; display: flex; }
+
+.page { vertical-align: middle; text-align: center; margin-right: auto; margin-left: auto; min-height: 100%; }
+
+#three { background: #7C7C7C; }
+
+#four { background: #0A2656; }
+
+#five { background: #D64933; }
+
+.title { font-family: 'Sen', sans-serif; font-size: 3vw; }
+
+#csp { color: white; }
+
+#circle { display: block; margin: auto; border: solid 5px #EEE5E9; border-radius: 50%; height: 60%; }
+
+#profile_description { margin: auto; display: block; font-family: 'Baloo 2', cursive; font-size: 2vw; text-align: center; padding-top: 5px; vertical-align: middle; }
+
+#myspan { color: white; }
+
+footer { background: gray; color: white !important; padding-top: 10px; padding-bottom: 10px; }
+
+.icon { font-size: 24px; }
+
+a { text-decoration: none !important; color: white !important; font-family: 'Raleway', sans-serif; }
+
+#blog { vertical-align: middle; font-family: 'Sen', sans-serif; font-size: 3vw; vertical-align: middle; text-align: center; margin-right: auto; margin-left: auto; color: white; }

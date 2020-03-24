@@ -1,0 +1,21 @@
+- name: Dimensionality reduction and Data Visualization
+  image: /assets/images/data-analysis.jpg
+  description: Description
+  github_link: https://github.com/yadneshSalvi/Dimensionality-reduction-and-data-visualization
+
+- name: Recommender System
+  image: /assets/images/recommend.png
+  description: Description
+  github_link: https://github.com/yadneshSalvi/Movie-recommender-system
+
+- name: Data scrapping and analysis
+  image: /assets/images/data_scraping.jpg
+  description: Description
+  github_link: https://github.com/yadneshSalvi/IPL-prediction
+
+- name: Web Whatsapp Scrapper
+  image: /assets/images/whatsapp_scraper.jpg
+  description: Description
+  github_link: https://github.com/yadneshSalvi/Whatsapp-group-messages-scrapper
+
+ 
